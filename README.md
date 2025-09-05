@@ -5,7 +5,8 @@
 _Le mie soluzioni personali per le sfide di programmazione natalizie_
 
 [![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-⭐-yellow?style=for-the-badge&logo=adventofcode)](https://adventofcode.com/)
-[![Years](https://img.shields.io/badge/Years-2023%20|%202024-green?style=for-the-badge)](#)
+[![Years](https://img.shields.io/badge/Years-2015%20|%202023%20|%202024-green?style=for-the-badge)](#)
+[![Stars](https://img.shields.io/badge/Stars-104⭐-gold?style=for-the-badge)](#)
 [![Language](https://img.shields.io/badge/Language-Multiple-blue?style=for-the-badge)](#)
 
 </div>
@@ -25,17 +26,22 @@ _Le mie soluzioni personali per le sfide di programmazione natalizie_
 
 ## 📊 Progresso
 
-### 🎄 Anno 2024
+### 🏆 Totale: 104 ⭐
 
-| Giorno | Parte 1 | Parte 2 | Linguaggio | Note       |
-| ------ | ------- | ------- | ---------- | ---------- |
-| 1-20   | ⭐      | ⭐      | -          | Completati |
+### 🎄 Anno 2024 - 38 ⭐
+| Giorni | Stelle | Stato |
+|--------|--------|---------|
+| 1-19   | 38/50  | 🔥 In corso |
 
-### 🎄 Anno 2023
+### 🎄 Anno 2023 - 16 ⭐
+| Giorni | Stelle | Stato |
+|--------|--------|---------|
+| 1-8    | 16/50  | ⏸️ Pausa |
 
-| Giorno | Parte 1 | Parte 2 | Linguaggio | Note       |
-| ------ | ------- | ------- | ---------- | ---------- |
-| 1-8    | ⭐      | ⭐      | -          | Completati |
+### 🎄 Anno 2015 - 50 ⭐
+| Giorni | Stelle | Stato |
+|--------|--------|---------|
+| 1-25   | 50/50  | ✅ Completato |
 
 ## 🚀 Come Usare
 
